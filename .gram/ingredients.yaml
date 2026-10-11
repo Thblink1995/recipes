@@ -21,3 +21,39 @@
 #       sodium: 0.011
 #       fiber: 0.0
 #       sugar: 0.1
+
+ingredients:
+  beurre-fondu:
+    name: beurre fondu
+    aliases: []
+    tags: []
+
+  farine:
+    name: farine
+    aliases: []
+    tags: []
+
+  huile:
+    name: huile
+    aliases: []
+    tags: []
+
+  lait:
+    name: lait
+    aliases: []
+    tags: []
+
+  levure:
+    name: levure
+    aliases: []
+    tags: []
+
+  oeuf:
+    name: œuf
+    aliases: []
+    tags: []
+
+  sucre-blanc:
+    name: sucre blanc
+    aliases: []
+    tags: []

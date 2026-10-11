@@ -1,2 +1,5 @@
 database: .gram/ingredients.yaml
 language: fr
+ai:
+  provider: ollama
+  model: gram-qwen
