@@ -10,7 +10,7 @@ cookTime: 210
 totalTime: 20
 ---
 
-Ingrédients : @bœuf pour bourguignon:bœuf{5kg}, @unité petits oignons:oignons{10}, @unité carotte:carottes{2}, @ail{2 gousse}, @beurre{60g}, @lardons{200g}, @bouillon de viande:viande{2 verre}, @farine{60g}, @vin rouge bourgogne:vin{50cl}, @unité bouquet garni:garni{1}, @champignon:champignons{250g}, @sel{}, @poivre{}.
+Ingrédients : @bœuf pour bourguignon{5kg}, @unité petits oignons:oignons{10}, @unité carotte:carottes{2}, @ail{2 gousse}, @beurre{60g}, @lardons{200g}, @bouillon de viande:viande{2 verre}, @farine{60g}, @vin rouge bourgogne:vin{50cl}, @unité bouquet garni:garni{1}, @champignon:champignons{250g}, @sel{}, @poivre{}.
 
 
 Tailler le @bœuf pour bourguignon:bœuf{1} en cubes de 3 à 4 cm de côte. Peler les @unité petits oignons:oignons{10} sans les écorcher. Peler et couper les @unité carotte:carottes{2} en rondelles pas trop fines (2mm au minimum). Peler l'@ail{2 gousse} et enlever le germe.
