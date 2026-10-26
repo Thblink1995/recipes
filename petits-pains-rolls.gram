@@ -10,7 +10,7 @@ cookTime: 30
 totalTime: 45
 ---
 
-Ingrédients : @ingrédients{1 tasse de lait, 4 cuillères à soupe de beurre, 2 tasses de farine, 1 paquet de levure chimique, 1 cuillère à café de sel, 2 cuillères à soupe de farine pour façonner}.
+Ingrédients : @ingrédients{}.
 Allumez le gaz (feu doux). Posez la casserole dessus. Mettez dans la casserole @1 tasse de lait:lait{250 ml} et @4 cuillères à soupe de beurre:beurre{60 g}.
 Mettez dans un grand bol @2 tasses de farine:farine{240 g}, @1 paquet de levure chimique:levure chimique{1} et @1 cuillère à café de sel:sel{5 g}.
 Versez dans le bol le contenu de la casserole. Mélangez bien avec la cuillère en bois.
