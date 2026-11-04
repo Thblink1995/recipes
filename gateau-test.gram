@@ -1,0 +1,15 @@
+---
+title: 'gâteau test'
+portions: 4
+category: 'Dessert'
+prepTime: 20
+cookTime: 40
+---
+
+Ingrédients : @oeufs{3}.
+
+mélanger le @lait{500ml} et l'@huile{2 c.à.s}
+
+ajouter la @farine{250g}
+
+cuire à 200°C pendant 30min
